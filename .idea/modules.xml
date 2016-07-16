@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/MedicineOrderingSystem.iml" filepath="$PROJECT_DIR$/MedicineOrderingSystem.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RestfulWebServiceSpringBoot.iml" filepath="$PROJECT_DIR$/RestfulWebServiceSpringBoot.iml" />
     </modules>
   </component>
 </project>
