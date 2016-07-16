@@ -23,10 +23,12 @@
         <outputRelativeToContentRoot value="true" />
         <processorPath useClasspath="true" />
         <module name="MedicineOrderingSystem" />
+        <module name="RestfulWebServiceSpringBoot" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="MedicineOrderingSystem" target="1.8" />
+      <module name="RestfulWebServiceSpringBoot" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>
